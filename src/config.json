@@ -1,0 +1,5 @@
+{
+    "serverURL":"http://goygoygoyserver.loca.lt",
+    "serverURLLocal":"http://localhost:5000",
+    "cdnURLToUse":"goygoygoyfixeddata.surge.sh"
+} 
